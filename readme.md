@@ -196,4 +196,15 @@ Request Body:
 
 5. Delete a User
 URL: /users/{id}
-Method: DELETE
+Method: DELETE```
+
+## testing
+
+Running Tests
+To execute the test suite, run the following command in the terminal:
+
+mvn test
+
+Checking Test Coverage
+To check test coverage, you can use a plugin like JaCoCo. Ensure you have the JaCoCo Maven plugin configured in your pom.xml, then run:
+mvn clean test
