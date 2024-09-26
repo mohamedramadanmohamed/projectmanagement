@@ -45,7 +45,7 @@ Run the application:
 ## project-structure
 
 Project Structure
-	```
+	
 	projectmanagement/
 ├── src/
 │   ├── main/
@@ -75,7 +75,7 @@ Project Structure
 ├── pom.xml
 ├── README.md
 
-	```
+
 
 
 ## Endpoints
